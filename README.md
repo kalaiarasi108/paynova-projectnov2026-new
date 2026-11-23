@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PayNova - Beginner Python Microservices Project
 
 A small learning version of the PayNova payment project. It contains five separate
@@ -155,3 +156,7 @@ After understanding this application, you can add the DevOps parts one by one:
 
 Do not start with all these tools at once. First run the five services locally and
 understand how one payment request travels between them.
+=======
+# paynova-projectnov2026-new
+this is paynova project
+>>>>>>> 66e057a7d2d7bd732d2f08d4c666d19fe311a7f9
